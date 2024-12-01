@@ -1,0 +1,3 @@
+Comunidad,andres,aa,mm,125
+Organizador,aaron,sanchez,aa,123
+Organizador,jose,ayala,ll,321
